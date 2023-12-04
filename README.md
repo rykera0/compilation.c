@@ -1,6 +1,6 @@
 # compilation.c
 
-Program which takes as input WAV files and creates a mix of the files with transitions in between and the option for background music/sounds. 
+Program which takes as input WAV files and outputs a compilation with transitions and background sounds.
 
 # Building
 
